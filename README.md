@@ -1,13 +1,16 @@
 ## Yago Zeppini
 <div>
+ Apenas um estudante de Desenvolvimento de Sistemas
  <img align="right" alt="Csharp" src="https://i.pinimg.com/originals/70/ec/4c/70ec4c8583d2a06cd3794e7e0d9e8001.gif">
   </div>
 
   ##
 
-Todos as profissões são dignas, e cheias de responsabilidades e importantes.
+<div>"Todos as profissões são dignas, e cheias de responsabilidades e importantes.
 Trabalhamos não apenas para ganhar um salário,mas para sermos solidários uns com os outros.
-Todos trabalhamos para pessoas, pessoas essas que trabalham para outras pessoas,e por conseguinte, há pessoas que trabalham para para nós. Estás a desempenhar o teu trabalho com essa consciência, já pensaste sobre isso?
+Todos trabalhamos para pessoas, pessoas essas que trabalham para outras pessoas,e por conseguinte, há pessoas que trabalham para para nós. Estás a desempenhar o teu trabalho com essa consciência, já pensaste sobre isso?" </div>
+
+  ##
   
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
