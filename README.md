@@ -1,16 +1,18 @@
-## Hi there 👋
+## Yago Zeppini
+<div>
+ <img align="right" alt="Csharp" src="https://i.pinimg.com/originals/70/ec/4c/70ec4c8583d2a06cd3794e7e0d9e8001.gif">
+  </div>
 
-<!--
-**yagozeppini/yagozeppini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Todos as profissões são dignas, e cheias de responsabilidades e importantes.
+Trabalhamos não apenas para ganhar um salário,mas para sermos solidários uns com os outros.
+Todos trabalhamos para pessoas, pessoas essas que trabalham para outras pessoas,e por conseguinte, há pessoas que trabalham para para nós. Estás a desempenhar o teu trabalho com essa consciência, já pensaste sobre isso?
+  
+<div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
