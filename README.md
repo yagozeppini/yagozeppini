@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d20202&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d20202&size=35&center=true&vCenter=true&width=1000&lines=OlÁ,+BEM+VINDO+AO+MEU+PORTFÓLIO;Me+chamo+Yago++sou+um+desenvolvedor+de+sistemas;Aqui+você+encontrara+meus+projetos)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=OlÁ,+BEM+VINDO+AO+MEU+PORTFÓLIO;Me+chamo+Yago++sou+um+desenvolvedor+de+sistemas;Aqui+você+encontrara+meus+projetos)](https://git.io/typing-svg)
+
+##
  
 <div>
  Apenas um estudante de Desenvolvimento de Sistemas
@@ -27,4 +29,4 @@ Todos trabalhamos para pessoas, pessoas essas que trabalham para outras pessoas,
  <img src="https://raw.githubusercontent.com/yagozeppini/yagozeppini/output/snake.svg" alt="Snake animation" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d20202&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
