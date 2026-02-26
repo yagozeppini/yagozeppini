@@ -5,10 +5,12 @@
 ##
  
 <div>
- Apenas um estudante de Desenvolvimento de Sistemas
-
+ Tecnico de Desenvolvimento de Sistemas     
   </div>
-
+  <div>
+Estudante de Engenharia da Computação
+</div>
+   
   ##
 
 <div>"Todos as profissões são dignas, e cheias de responsabilidades e importantes.
