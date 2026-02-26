@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d20202&size=35&center=true&vCenter=true&width=1000&lines=OlÁ,+BEM+VINDO+AO+MEU+PORTFÓLIO;Me+chamo+Yago++sou+um+desenvolvedor+de+sistemas;Aqui+você+encontrara+meus+projetos)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bluesize=35&center=true&vCenter=true&width=1000&lines=OlÁ,+BEM+VINDO+AO+MEU+PORTFÓLIO;Me+chamo+Yago++sou+um+desenvolvedor+de+sistemas;Aqui+você+encontrara+meus+projetos)](https://git.io/typing-svg)
 
 ##
  
 <div>
  Apenas um estudante de Desenvolvimento de Sistemas
- <img align="right" alt="Csharp" src="https://i.pinimg.com/originals/70/ec/4c/70ec4c8583d2a06cd3794e7e0d9e8001.gif">
+
   </div>
 
   ##
