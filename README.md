@@ -15,16 +15,18 @@ Estudante de Engenharia da Computação
 
 <div>"Todos as profissões são dignas, e cheias de responsabilidades e importantes.
 Trabalhamos não apenas para ganhar um salário,mas para sermos solidários uns com os outros.
-Todos trabalhamos para pessoas, pessoas essas que trabalham para outras pessoas,e por conseguinte, há pessoas que trabalham para para nós. Estás a desempenhar o teu trabalho com essa consciência, já pensaste sobre isso?" </div>
+Todos trabalhamos para pessoas, pessoas essas que trabalham para outras pessoas,e por conseguinte, há pessoas que trabalham para nós. Estás a desempenhar o teu trabalho com essa consciência, já pensaste sobre isso?" </div>
 
   ##
   
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 
